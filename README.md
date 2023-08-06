@@ -1,7 +1,5 @@
 # PDF File Processing using Python PyPDF2 Library
 
-![PyPDF2 Logo](https://example.com/pypdf2_logo.png) 
-
 ## Overview
 
 This repository provides Python code examples and utilities for processing PDF files using the PyPDF2 library. PyPDF2 is a powerful and easy-to-use library for manipulating PDF documents, allowing you to extract text, merge, split, encrypt, and more.
